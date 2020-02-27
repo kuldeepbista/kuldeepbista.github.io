@@ -22,7 +22,7 @@ Mechanical Engineering B.S
 ### Lawrence Berkeley National Laboratory, Berkeley \- Engineering Intern \[Dec 2016 \- Dec 2017\]
 *	Built a fully functional Bio-3D printer from scratch that was able to print human skin.
 *	Led a group of 5 Engineering students to upgrade the Bio-3D printer adding multiple extrusion capabilities.
-*	Customized Marlin Firmware, written in C/C++, to add multiple extrusion capabilities, multipoint temperature reading and variable z-height controller. 
+*	Customized Marlin Firmware, written in C\/C\+\+, to add multiple extrusion capabilities, multipoint temperature reading and variable z\-height controller. 
 
 ## OTHER EXPERIENCE
 ### Berkeley Voyagers, UC Berkeley \- Founder \& Team Lead \[Jan 2017 \- July 2017\]
