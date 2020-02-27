@@ -26,7 +26,7 @@ Mechanical Engineering B.S
 
 ## OTHER EXPERIENCE
 ### Berkeley Voyagers, UC Berkeley \- Founder \& Team Lead \[Jan 2017 \- July 2017\]
-*	Led a team of 14 engineers representing UC Berkeley at NASA\’s 3D Printed Habitat Challenge.
+*	Led a team of 14 engineers representing UC Berkeley at NASA’s 3D Printed Habitat Challenge.
 *	Supervised the development of a 3d printing composite material of high compressive strength and the customization of a 3D printer to add capability to print composite materials.
 *	Customized Marlin Firmware and G\-Code to operate 3D printer.
 ### Thermal Hydraulic Lab, UC Berkeley \- Engineering Research Intern \[Dec 2016 \- Jan 2017\]
